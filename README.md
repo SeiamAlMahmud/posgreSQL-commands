@@ -1,4 +1,4 @@
-# To log in to PostgreSQL on your VPS and view databases, tables, and data, you can follow these steps:
+## To log in to PostgreSQL on your VPS and view databases, tables, and data, you can follow these steps:
 
 ## 1. Log in to PostgreSQL
 
@@ -117,7 +117,7 @@ To exit the **_psql_** command-line interface, simply type:
 
 # Q. **For Vps**
 
-The error message you're receiving, **_password authentication failed for user "postgres"_**, suggests that there is an issue with either the password you're providing for the postgres user or the authentication method in PostgreSQL. Let's go through the steps to resolve the issue.
+The error message you're receiving, ***<span style="color:yellow;">password authentication failed for user "postgres"</span>*** , suggests that there is an issue with either the password you're providing for the postgres user or the authentication method in PostgreSQL. Let's go through the steps to resolve the issue.
 
 ## 1. Check the postgres user password
 
