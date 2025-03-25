@@ -1,3 +1,5 @@
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+
 ## Here are the steps to install PostgreSQL on a VPS (Virtual Private Server):
 
 ## 1. Install PostgreSQL:
@@ -111,16 +113,16 @@ host    all             all             0.0.0.0/0            md5
 ```
 
 ### 2. Restart PostgreSQL service: After making changes, restart the PostgreSQL service to apply the configuration:
+
 ```bash
 sudo systemctl restart postgresql
 ```
-<br />
-<br />
-<br />
-<br />
-<br />
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## To log in to PostgreSQL on your VPS and view databases, tables, and data, you can follow these steps:
 
