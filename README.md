@@ -242,6 +242,7 @@ To exit the **_psql_** command-line interface, simply type:
 ### That's it! You should now be able to interact with PostgreSQL, view databases, tables, and the data within them. Let me know if you need more help!
 <br />
 <br />
+
 # Q. **Fixing PostgreSQL Authentication Issue**
 
 If you're encountering issues logging into PostgreSQL with the postgres user (or any PostgreSQL user), you can reset the PostgreSQL password for the postgres superuser by following these steps:
